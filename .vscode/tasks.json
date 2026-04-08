@@ -10,7 +10,7 @@
                 "-g",
                 "${workspaceFolder}\\src\\main.cpp",
                 "-o",
-                "${workspaceFolder}\\src\\output\\main.exe",
+                "${workspaceFolder}\\main.exe",
                 "-lsfml-graphics",
                 "-lsfml-window",
                 "-lsfml-system"
