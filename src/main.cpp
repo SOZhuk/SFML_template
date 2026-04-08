@@ -6,7 +6,7 @@ int main() {
     window.setFramerateLimit(60);
 
     sf::CircleShape ball(40.f);
-    ball.setFillColor(sf::Color::Green);
+    ball.setFillColor(sf::Color::Yellow);
     ball.setPosition({100.f, 100.f});
 
     while (window.isOpen()) {
